@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  6 13:13:19 2018
 
-@author: yd50605
-"""
 
 from mpl_toolkits.mplot3d import Axes3D 
 import matplotlib.pyplot as plt 
